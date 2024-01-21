@@ -316,6 +316,7 @@ footer {
 .footer-main-container {
     width: 80%;
     display: flex;
+    justify-content: space-between;
 }
 
 .social-icon img {
